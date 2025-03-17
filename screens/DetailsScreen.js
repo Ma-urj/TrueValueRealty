@@ -8,7 +8,7 @@ import countyAPIs from '../data/valid_counties_only.json';
 import debounce from 'lodash.debounce';
 import { Ionicons } from '@expo/vector-icons';  // ✅ Import Icon for Back Button
 
-const PEXELS_API_KEY = "PfcX0uhPunDcOEhFyu9qplzbXC5a41vfE6FZoch2cBfQXlWYbT1nuHSE";
+const PEXELS_API_KEY = "API key from https://www.pexels.com/api/key/";
 
 const DetailsScreen = ({ route }) => {
   const { propertyid, county } = route.params;
