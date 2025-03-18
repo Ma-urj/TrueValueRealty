@@ -60,9 +60,20 @@ npx expo start
 
 ## 📸 Screenshots
 
-| Home Screen | Property Details |
-|-------------|-----------------|
-| ![Home](assets/home_screen.png) | ![Details](assets/details_screen.png) |
+###Home Screen   
+![WhatsApp Image 2025-03-17 at 5 20 34 PM (6)](https://github.com/user-attachments/assets/c08928c3-d8b4-4c31-8c4f-d0832213fb29)
+![WhatsApp Image 2025-03-17 at 5 20 34 PM (5)](https://github.com/user-attachments/assets/8d121fb7-6d17-4df1-b4d1-3c9fa71da9cd)
+![WhatsApp Image 2025-03-17 at 5 20 34 PM (4)](https://github.com/user-attachments/assets/ea7c35dc-7a91-42e7-9f1d-e0c7c8a5c1cd)
+![WhatsApp Image 2025-03-17 at 5 20 34 PM (3)](https://github.com/user-attachments/assets/68380243-fe06-447b-903f-4d854c5b88db)
+
+###Details Screen   
+![WhatsApp Image 2025-03-17 at 5 20 34 PM (2)](https://github.com/user-attachments/assets/35f12791-343e-4d26-ab54-f9892aad9d97)
+![WhatsApp Image 2025-03-17 at 5 20 34 PM (1)](https://github.com/user-attachments/assets/81e76a26-f365-4657-ab89-891f0093457a)
+![WhatsApp Image 2025-03-17 at 5 20 33 PM](https://github.com/user-attachments/assets/681d0705-29d0-4c51-b269-bf2dbaddbd11)
+![WhatsApp Image 2025-03-17 at 5 20 33 PM (2)](https://github.com/user-attachments/assets/1fe051f9-7679-4529-84a6-65fe8e7eb7ca)
+![WhatsApp Image 2025-03-17 at 5 20 33 PM (1)](https://github.com/user-attachments/assets/53966c55-4600-444f-9396-7c205dba54e8)
+![WhatsApp Image 2025-03-17 at 5 20 34 PM](https://github.com/user-attachments/assets/78413b9a-0357-4131-a80d-a47067f49eec)
+
 
 ---
 
