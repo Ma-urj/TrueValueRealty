@@ -61,7 +61,7 @@ npx expo start
 ## 📸 Screenshots
 
 ###Home Screen   
-![WhatsApp Image 2025-03-17 at 5 20 34 PM (6)](https://github.com/user-attachments/assets/c08928c3-d8b4-4c31-8c4f-d0832213fb29)
+![WhatsApp Image 2025-03-17 at 5 20 34 PM (6)](https://github.com/user-attachments/assets/c08928c3-d8b4-4c31-8c4f-d0832213fb29 = 250px)
 ![WhatsApp Image 2025-03-17 at 5 20 34 PM (5)](https://github.com/user-attachments/assets/8d121fb7-6d17-4df1-b4d1-3c9fa71da9cd)
 ![WhatsApp Image 2025-03-17 at 5 20 34 PM (4)](https://github.com/user-attachments/assets/ea7c35dc-7a91-42e7-9f1d-e0c7c8a5c1cd)
 ![WhatsApp Image 2025-03-17 at 5 20 34 PM (3)](https://github.com/user-attachments/assets/68380243-fe06-447b-903f-4d854c5b88db)
