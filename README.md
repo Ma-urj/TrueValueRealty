@@ -100,5 +100,5 @@ Contributions are welcome! Feel free to fork the repo and submit a PR.
 ---
 
 ## 📬 Contact
-💬 Let's connect! I'm open to opportunities in **AI, full-stack development, and automation.** Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOURPROFILE/).
+💬 Let's connect! I'm open to opportunities in **AI, full-stack development, and automation.** Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/maurj/).
 
